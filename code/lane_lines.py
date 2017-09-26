@@ -161,8 +161,8 @@ def main():
     }
 
     #process_movie(movies['project'])
-    #process_movie(movies['challenge'])
-    process_movie(movies['harder_challenge'])
+    process_movie(movies['challenge'])
+    #process_movie(movies['harder_challenge'])
     #process_test_images()
 
 if __name__ == '__main__':
