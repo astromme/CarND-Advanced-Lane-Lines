@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+calibration.pickle
+challenge_video_debug/
+harder_challenge_video_debug/
+project_video_debug/
+test_images/.DS_Store
+test_images/image121-stage0-image.jpg
+test_images/output/
+
